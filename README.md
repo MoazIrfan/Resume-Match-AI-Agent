@@ -29,8 +29,7 @@ Write a cover letter tailored to the following job description:
 
 ```
 
-
-
+[![📟](https://raw.githubusercontent.com/MoazIrfan/Resume-Match-AI-Agent/main/.github/Resume%20Match.gif)](./../../)
 
 <br>
 
