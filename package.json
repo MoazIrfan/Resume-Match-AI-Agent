@@ -1,0 +1,20 @@
+{
+  "name": "resume-match-agent",
+  "version": "1.0.0",
+  "description": "Agent that matches resumes to job descriptions using OpenAI's llm and LangChain.",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@langchain/core": "^0.3.53",
+    "@langchain/openai": "^0.5.10",
+    "dotenv": "^16.5.0",
+    "langchain": "^0.3.24",
+    "openai": "^4.97.0"
+  }
+}
